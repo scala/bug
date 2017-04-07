@@ -1,4 +1,4 @@
-# The Scala bug issue tracker
+# The Scala compiler and standard library bug tracker
 
 ## Before opening an issue
 
