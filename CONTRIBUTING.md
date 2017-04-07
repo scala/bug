@@ -1,7 +1,8 @@
 Thank you for reporting a bug with the Scala compiler or standard library. We're sorry for the trouble it caused!
 
 Some reporting guidelines that help us fix your bug faster:
-  - provide a brief yet actionable description, such as "I tried [code snippet], the compiler said [error]. I think this should compile because [it used to work on older version X]."
+  - provide a brief yet actionable description, such as
+    > I tried [code snippet], the compiler said [error]. I think this should compile because [it used to work on older version X].
   - include the Scala version(s) you tried, and the version of the JVM you're using
   - make sure it's a new bug :smirk:
 
