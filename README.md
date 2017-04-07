@@ -1,4 +1,4 @@
-# The Scala compiler and standard library bug tracker
+# Welcome to the Scala compiler & standard library bug tracker
 
 ## Before opening an issue
 
