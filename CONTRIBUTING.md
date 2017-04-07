@@ -13,6 +13,7 @@ On this tracker, we care especially about:
   - regressions
   - unintuitive error messages or unclear documentation
   - programs that [should | should not] compile but [do not| do]
+  - unexpected behavior in the library
 
 Bug reports with a small, self-contained code snippet tend to get fixed faster.
 Of course reports without a small reproduction are accepted too -- we know minimizing a bug can be tricky.
