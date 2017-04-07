@@ -1,4 +1,4 @@
-# Welcome to the Scala compiler & standard library bug tracker
+# Welcome to the Scala compiler & standard library bug tracker!
 
 ## Before opening an issue
 
@@ -9,7 +9,7 @@ Before opening an issue to report a bug in the Scala compiler or standard librar
 
 ## Assistance from the community
 
-If you're not sure whether your issue is a bug, the community is happy to help at:
+If you're not sure whether your issue is a bug, we are happy to help at:
  - [the Scala Users forum](https://users.scala-lang.org/);
  - [the scala/scala Gitter room](https://gitter.im/scala/scala);
  - [questions tagged with #scala on Stack Overflow](http://stackoverflow.com/questions/tagged/scala).
