@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-Please use https://contributors.scala-lang.org/ for enhancement ideas instead of posting them to the issue tracker.
+For enhancement ideas, please use https://contributors.scala-lang.org/, not scala/bug.

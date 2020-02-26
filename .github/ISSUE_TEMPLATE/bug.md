@@ -1,18 +1,18 @@
 ---
 name: "\U0001F41B Bug report"
-about: Report a bug about the Scala compiler or the standard library
+about: Report a bug in the Scala compiler or standard library
 title: ''
 assignees: ''
 
 ---
 
-## minimized code
+## reproduction steps
 
-```Scala
+```scala
 println("hello, world")
 ```
 
-## Compilation output
+## problem
 
 ```scala
 // TODO add compilation output here
