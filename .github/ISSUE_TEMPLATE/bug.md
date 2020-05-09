@@ -8,14 +8,13 @@ assignees: ''
 
 ## reproduction steps
 
+using Scala (add version here),
+
 ```scala
-println("hello, world")
+scala> println("hello, world")
+hello, world!
 ```
 
 ## problem
 
-```scala
-// TODO add compilation output here
-```
-
-## expectation
+(explain how the above behavior isn't what you expected)
