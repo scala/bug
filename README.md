@@ -26,7 +26,14 @@ Before opening an issue here, please:
 
 A bug report without a small, self-contained code snippet is much less likely to receive attention.
 
-## Help with contributing fixes
+## Want to help?
+
+Looking for tickets needing attention? Check out these labels:
+
+- [label: good first issue](https://github.com/scala/bug/labels/good%20first%20issue)
+- [label: help wanted](https://github.com/scala/bug/labels/help%20wanted)
+
+## Support for contributors
 
 We are happy to help you with your contribution via:
 
