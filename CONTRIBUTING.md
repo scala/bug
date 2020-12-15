@@ -8,7 +8,7 @@ If you're not certain your issue is a bug, please ask about it elsewhere first:
 
  - [the Scala Users forum](https://users.scala-lang.org/);
  - [the scala/scala Gitter room](https://gitter.im/scala/scala);
- - [questions tagged with #scala on Stack Overflow](http://stackoverflow.com/questions/tagged/scala).
+ - [questions tagged with #scala on Stack Overflow](https://stackoverflow.com/questions/tagged/scala).
 
 ## No feature requests, please
 
@@ -45,5 +45,5 @@ This repo is separate from [scala/scala](https://github.com/scala/scala) because
 
 The first 10250 issues in this tracker were [imported](https://github.com/adriaanm/bbj) from [JIRA](https://issues.scala-lang.org?orig=1). We made every attempt to preserve all data and metadata that's supported by the GitHub import API. Sadly, the author metadata could not be preserved directly.
 
-Serious archaeologists can dig up the dusty skeletons of tickets 1-1299 from [Aladdin](http://lrytz.github.io/scala-aladdin-bugtracker/displayBugs.do.html).
+Serious archaeologists can dig up the dusty skeletons of tickets 1-1299 from [Aladdin](https://lrytz.github.io/scala-aladdin-bugtracker/displayBugs.do.html).
 
