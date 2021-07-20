@@ -2,6 +2,10 @@
 
 This is the right place to report a bug or a minor shortcoming in the Scala 2 compiler, standard library, or language specification.
 
+## Where is Scala 3?
+
+At [lampepfl/dotty](https://github.com/lampepfl/dotty).
+
 ## No questions, please
 
 If you're not certain your issue is a bug, please ask about it elsewhere first:
@@ -41,10 +45,6 @@ We are happy to help you with your contribution via:
  - [the scala/contributors Gitter room](https://gitter.im/scala/contributors);
  - [our "Get Ready to Contribute" guide](https://github.com/scala/scala/#get-ready-to-contribute);
  - [our "Scala Hacker" guide](https://scala-lang.org/contribute/hacker-guide.html).
-
-## Where is Scala 3?
-
-It's in the [dotty repo](https://github.com/lampepfl/dotty).
 
 ## History
 
