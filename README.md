@@ -11,7 +11,7 @@ At [lampepfl/dotty](https://github.com/lampepfl/dotty).
 If you're not certain your issue is a bug, please ask about it elsewhere first:
 
  - [the Scala Users forum](https://users.scala-lang.org/);
- - [the scala/scala Gitter room](https://gitter.im/scala/scala);
+ - [the Scala Discord chat server](https://discord.com/invite/scala);
  - [questions tagged with #scala on Stack Overflow](https://stackoverflow.com/questions/tagged/scala).
 
 ## No feature requests, please
@@ -42,7 +42,7 @@ Looking for tickets needing attention? Check out these labels:
 We are happy to help you with your contribution via:
 
  - [the Scala Contributors forum](https://contributors.scala-lang.org/);
- - [the scala/contributors Gitter room](https://gitter.im/scala/contributors);
+ - [the #scala-contributors channel on the Scala Discord](https://discord.com/invite/scala);
  - [our "Get Ready to Contribute" guide](https://github.com/scala/scala/#get-ready-to-contribute);
  - [our "Scala Hacker" guide](https://scala-lang.org/contribute/hacker-guide.html).
 
