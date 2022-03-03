@@ -1,20 +1,20 @@
 ---
 name: "\U0001F41B Bug report"
-about: Report a bug in the Scala compiler or standard library
+about: Report a bug in the Scala 2.x compiler or standard library
 title: ''
 assignees: ''
 
 ---
 
-## reproduction steps
+## Reproduction steps
 
-using Scala (add version here),
+Scala version: (Is the bug only in Scala 3.x? If so, report it at https://github.com/lampepfl/dotty/issues/new/choose instead.)
 
 ```scala
 scala> println("hello, world")
 hello, world!
 ```
 
-## problem
+## Problem
 
-(explain how the above behavior isn't what you expected)
+Explain how the above behavior isn't what you expected.
