@@ -8,7 +8,7 @@ At [lampepfl/dotty](https://github.com/lampepfl/dotty).
 
 ## No questions, please
 
-If you're not certain your issue is a bug, please ask about it elsewhere first:
+Unless you can make a solid, well-supported case that your issue is actually a bug, please ask about it elsewhere first:
 
  - [the Scala Users forum](https://users.scala-lang.org/);
  - [the Scala Discord chat server](https://discord.com/invite/scala);
