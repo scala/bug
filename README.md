@@ -22,11 +22,13 @@ To keep this tracker focused, we ask that feature requests and discussion of pot
 
 Thank you for finding a bug. We're sorry for the trouble it caused!
 
-Before opening an issue here, please:
+When opening an issue here, please:
 
-  1. do a search to make sure it hasn't already been reported
+  1. search first to make sure it hasn't already been reported
   2. use a small, self-contained snippet of Scala code to illustrate what happened, and contrast with what you expected the compiler to say or the library to do;
-  3. include the Scala version(s) you've tried, and the version of the JVM you're using.
+  3. argue as rigorously as you can, ideally with reference to the language specification or other relevant documentation, that the behavior is actually a bug and not merely surprising or unexpected
+  4. include the Scala version(s) you tried and the version of the JVM you're using
+  5. consider trying the same thing in Scala 3, as this can give additional insight
 
 A bug report without a small, self-contained code snippet is much less likely to receive attention.
 
