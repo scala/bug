@@ -6,6 +6,10 @@ assignees: ''
 
 ---
 
+## Questions are not bug reports
+
+See [repo README](https://github.com/scala/bug) for guidance on what qualifies as a reportable bug.
+
 ## Reproduction steps
 
 Scala version: (Is the bug only in Scala 3.x? If so, report it at https://github.com/lampepfl/dotty/issues/new/choose instead.)
