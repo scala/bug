@@ -37,7 +37,7 @@ We are happy to help you with your contribution via:
 
 ## Where is Scala 3?
 
-It's in the [dotty repo](https://github.com/lampepfl/dotty).
+It's in the [scala/scala3](https://github.com/scala/scala3).
 
 ## History
 
